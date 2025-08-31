@@ -1,4 +1,4 @@
-package distances
+package distance
 
 import (
 	"advent-of-code/pkg/lists"
