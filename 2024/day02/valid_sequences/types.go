@@ -1,4 +1,4 @@
-package main
+package valid_sequences
 
 type ValidationStrategy = uint
 
